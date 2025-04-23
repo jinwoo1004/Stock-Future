@@ -26,8 +26,8 @@
    
 2. (최초 실행 시) 필요한 패키지를 설치합니다:
    ```bash
-  pip install jupyter notebook
-  pip install ipykernel
+   pip install jupyter notebook
+   pip install ipykernel
 
 3. 가상환경을 Jupyter Kernel에 등록합니다:
    ```bash
