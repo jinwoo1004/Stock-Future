@@ -31,8 +31,8 @@
 
 3. 가상환경을 Jupyter Kernel에 등록합니다:
    ```bash
-  python -m ipykernel install --user --name tensor_37_env --display-name "[Tensorflow_37_env]"
+   python -m ipykernel install --user --name tensor_37_env --display-name "[Tensorflow_37_env]"
 
 4. 가상환경을 Jupyter Kernel에 등록합니다:
    ```bash
-  jupyter notebook
+   jupyter notebook
