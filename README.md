@@ -1,4 +1,4 @@
-# Stock Prediction project  :chart_with_upwards_trend:
+# Stock Future :chart_with_upwards_trend:
 
 
 본 프로젝트는 머신러닝과 딥러닝을 포함한 다양한 방법으로 주가를 예측하고자 진행한 프로젝트입니다.
